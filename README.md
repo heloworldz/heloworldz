@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm David V Aye
 
-<!--
-**heloworldz/heloworldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MCA student passionate about cybersecurity, ethical hacking, and network security.  
+🔐 Learning OSI Model, IPsec, VPNs, and data protection.  
+🚀 Planning to explore TryHackMe labs and beginner tools like Nmap and Wireshark
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Networking: OSI Model, TCP/IP, DNS, DHCP
+- Security Concepts: CIA Triad, Encryption, Firewalls
+- Tools: Learning about tools such as Nmap and Wireshark using Kali Linux
+- Languages: Python (beginner), HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Projects
+- ✅ Internet Security & Cyber Law Assignments (IPSec, VPNs, TCP Sessions)
+- ✅ Data Protection Study (Windows security, encryption, password safety)
+
+📫 Contact: daveaye11@gmail.com
