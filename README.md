@@ -1,8 +1,8 @@
 👋 Hi, I'm David V Aye
 
-I’m an MCA graduate passionate about Cybersecurity, Artificial Intelligence, and Full-Stack Development.
-I enjoy working on projects that combine network security, data protection, and AI-powered solutions.
-I have hands-on experience with Python, Machine Learning, Streamlit, Dash, and MIT App Inventor, and I actively explore cybersecurity tools like Nmap and Wireshark.
+I’m an MCA graduate passionate about Cybersecurity, Artificial Intelligence, Software Engineering, Software Tester and Full-Stack Development.
+I enjoy working on projects that combine network security, data protection and AI-powered solutions.
+I have hands-on experience with Python, Machine Learning, Streamlit, Dash and MIT App Inventor.
 Currently, I’m:
 Expanding my knowledge in ethical hacking & penetration testing (TryHackMe, HackTheBox).
 Building AI-powered applications (chatbots, sentiment analysis, dashboards).
@@ -11,14 +11,14 @@ Exploring real-time data visualization and smart app development.
 # 🛠 Skills
 🌐 Networking & Security
 - OSI Model, TCP/IP, DNS, DHCP
-- IPSec, VPN, TCP Sessions, Data Protection
+- IPSec, VPN, TCP Sessions Data Protection
 - CIA Triad, Encryption, Firewalls, Password Safety
 - Cybersecurity Tools: Nmap, Wireshark, Kali Linux basics
 - Hashing, Cryptography concepts
 
 # 💻 Programming & Scripting
 - Python (beginner to intermediate)
-- Java, C, C++, JavaScript, HTML, CSS
+- Java, C, C++, JavaScript, HTML, CSS,C#, mongodb, noode.js, typescript, javascript, Python / Shell scripting.
 - SQL (MySQL, SQLite)
 
 # 🤖 AI & Machine Learning
