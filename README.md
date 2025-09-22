@@ -50,14 +50,14 @@ Exploring real-time data visualization and smart app development.
 - Technical Documentation & README creation
 
 ## Projects
-- ✅ Internet Security & Cyber Law Assignments (IPSec, VPNs, TCP Sessions)
-- ✅ Data Protection Study (Windows security, encryption, password safety)
-- ✅ Attendance System (QR + Face + RFID)
-- ✅ Real-time Sales Dashboard (Dash/Colab)
-- ✅ Sentiment Analysis of Tweets (LogReg, SVM, LSTM)
-- ✅ Gini Classifier UI (Gradio)
-- ✅ AI-Powered Mental Healthcare Chatbot with Sentiment Analysis (already on GitHub)
-- ✅ Digital Smart Diary App (MIT App Inventor/TinyDB)
-- ✅ AI in Preventive Healthcare (Report/Research)
+-  Internet Security & Cyber Law Assignments – IPSec, VPNs, TCP sessions
+-  Data Protection Study – Windows security, encryption, password safety
+-  Attendance System – QR code, facial recognition, and RFID-based attendance
+-  Real-time Sales Dashboard – Built using Dash and Google Colab
+-  Sentiment Analysis of Tweets – Logistic Regression, SVM, and LSTM models
+-  Gini Classifier UI – Developed with Gradio
+-  AI-Powered Mental Healthcare Chatbot – Integrated sentiment analysis, voice input, and AI responses
+-  Digital Smart Diary App – Developed in MIT App Inventor using TinyDB for multimedia storage
+-  Resume Analyzer – Full-stack project using Node.js, Express, React.js, Axios, CORS, with text and PDF/DOCX resume analysis
   
 ## Contact: daveaye11@gmail.com
